@@ -1,0 +1,177 @@
+body {
+  background-color: #ffffff;
+  padding: 20px 0px;
+  margin: 0px auto;
+}
+table {
+  max-width: 600px;
+  min-width: 320px;
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0px;
+  margin: 0px auto;
+  padding: 0px;
+  mso-table-lspace: 0pt;
+  mso-table-rspace: 0pt;
+}
+td {
+  margin: 0px;
+  padding: 0px;
+}
+img {
+  outline: none;
+  -ms-interpolation-mode: bicubic;
+  display: block;
+  margin: 0px auto;
+  padding: 0px;
+}
+a {
+  text-decoration: none;
+}
+.activity-item {
+  background-color: #E31B1B;
+}
+.button-main {
+  background-color: #67DC54;
+  text-align: center;
+}
+.button-main-link {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color: #000000;
+  line-height: 24px;
+  mso-line-height-rule: exactly;
+  font-style: normal;
+  font-weight: normal;
+  letter-spacing: normal;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  display: block;
+  width: 220px;
+  height: 60px;
+  box-sizing: border-box;
+  padding-top: 20px;
+  background-color: #67DC54;
+}
+.wrap-header {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  color: #000000;
+  line-height: 48px;
+  mso-line-height-rule: exactly;
+  font-style: normal;
+  font-weight: normal;
+  letter-spacing: normal;
+  text-align: center;
+}
+.title-main {
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  font-size: 45px;
+  color: #E31B1B;
+  line-height: 48px;
+  mso-line-height-rule: exactly;
+  font-style: normal;
+  font-weight: normal;
+  letter-spacing: normal;
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 15px;
+}
+.main-photo {
+  width: 100%;
+  height: auto;
+}
+.description-main {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  color: #000000;
+  line-height: 22px;
+  mso-line-height-rule: exactly;
+  font-style: normal;
+  font-weight: normal;
+  letter-spacing: normal;
+  text-align: center;
+  padding-top: 22px;
+  padding-bottom: 15px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.activities-program {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+  color: #000000;
+  line-height: 34px;
+  mso-line-height-rule: exactly;
+  font-style: normal;
+  font-weight: normal;
+  letter-spacing: normal;
+  text-align: center;
+  padding-top: 22px;
+  padding-bottom: 15px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.activity-item {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color: #ffffff;
+  line-height: 25px;
+  mso-line-height-rule: exactly;
+  font-style: normal;
+  font-weight: normal;
+  letter-spacing: normal;
+  text-align: center;
+  padding: 5px;
+  width: 178px;
+  border: 1px;
+  border-style: solid;
+  border-color: #000000;
+}
+.activity-description {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  color: #000000;
+  line-height: 22px;
+  mso-line-height-rule: exactly;
+  font-style: normal;
+  font-weight: normal;
+  letter-spacing: normal;
+  text-align: center;
+  padding: 15px 5px 5px 5px;
+  width: 180px;
+}
+.line-main {
+  height: 2px;
+  background-color: #C4C4C4;
+  width: 500px;
+}
+
+.line-main-blank {
+  height: 25px;
+  background-color: #ffffff;
+}
+
+.activity-item-blank {
+  color: #ffffff;
+  padding: 5px;
+  width: 20px;
+}
+.social-title {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color: #000000;
+  line-height: 22px;
+  mso-line-height-rule: exactly;
+  font-style: normal;
+  font-weight: normal;
+  letter-spacing: normal;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  width: 200px;
+}
+.social-link-image {
+  width: 40px;
+  height: 40px;
+}
